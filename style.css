@@ -30,7 +30,7 @@ header{
 
 footer{
     background: linear-gradient(60deg, #676cf2,#c0bebe,#676cf2);
-    display: flex;
+    font-weight: 600;
     justify-content: space-around;
     padding: 50px;
     
