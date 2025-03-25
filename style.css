@@ -50,7 +50,8 @@ footer{
     padding: 20px;
     border-radius: 10px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
-    
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 a{
     text-decoration: none;
